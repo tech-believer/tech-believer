@@ -17,14 +17,15 @@ I craft my way to innovation.
 
 <br/>
 
-<table>
-  <tr>
-    <td align="center" width="122"><img src="https://cdn.simpleicons.org/c/d63384" width="56" alt=""/><br/><b>C</b></td>
-    <td align="center" width="122"><img src="https://cdn.simpleicons.org/cplusplus/d63384" width="56" alt=""/><br/><b>C++</b></td>
-    <td align="center" width="122"><img src="https://cdn.simpleicons.org/stmicroelectronics/d63384" width="56" alt=""/><br/><b>STM32</b></td>
-    <td align="center" width="122"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/matlab/matlab-original.svg" width="56" alt=""/><br/><b>MATLAB / Simulink</b></td>
-  </tr>
-</table>
+<p align="center">
+  <img src="https://cdn.simpleicons.org/c/d63384" height="56" alt=""/>&nbsp;<b>C</b>
+  &nbsp;&nbsp;&nbsp;&nbsp;
+  <img src="https://cdn.simpleicons.org/cplusplus/d63384" height="56" alt=""/>&nbsp;<b>C++</b>
+  &nbsp;&nbsp;&nbsp;&nbsp;
+  <img src="https://cdn.simpleicons.org/stmicroelectronics/d63384" height="56" alt=""/>&nbsp;<b>STM32</b>
+  &nbsp;&nbsp;&nbsp;&nbsp;
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/matlab/matlab-original.svg" height="56" alt=""/>&nbsp;<b>MATLAB / Simulink</b>
+</p>
 
 <b>⚙️ PID · MPC · Kalman · State-Space &nbsp;✦&nbsp; 🔌 CAN · Modbus · RS-485 · UART · SPI · I²C</b>
 <br/>
@@ -36,15 +37,17 @@ I craft my way to innovation.
 
 <br/>
 
-<table>
-  <tr>
-    <td align="center" width="98"><img src="https://cdn.simpleicons.org/linux/c2185b" width="44" alt=""/><br/><sub><b>Linux · SocketCAN</b></sub></td>
-    <td align="center" width="98"><img src="https://cdn.simpleicons.org/cmake/c2185b" width="44" alt=""/><br/><sub><b>CMake · colcon</b></sub></td>
-    <td align="center" width="98"><img src="https://cdn.simpleicons.org/docker/c2185b" width="44" alt=""/><br/><sub><b>Docker</b></sub></td>
-    <td align="center" width="98"><img src="https://cdn.simpleicons.org/arduino/c2185b" width="44" alt=""/><br/><sub><b>Arduino</b></sub></td>
-    <td align="center" width="98"><img src="https://cdn.simpleicons.org/raspberrypi/c2185b" width="44" alt=""/><br/><sub><b>Raspberry Pi</b></sub></td>
-  </tr>
-</table>
+<p align="center">
+  <img src="https://cdn.simpleicons.org/linux/c2185b" height="44" alt=""/>&nbsp;<sub><b>Linux · SocketCAN</b></sub>
+  &nbsp;&nbsp;&nbsp;&nbsp;
+  <img src="https://cdn.simpleicons.org/cmake/c2185b" height="44" alt=""/>&nbsp;<sub><b>CMake · colcon</b></sub>
+  &nbsp;&nbsp;&nbsp;&nbsp;
+  <img src="https://cdn.simpleicons.org/docker/c2185b" height="44" alt=""/>&nbsp;<sub><b>Docker</b></sub>
+  &nbsp;&nbsp;&nbsp;&nbsp;
+  <img src="https://cdn.simpleicons.org/arduino/c2185b" height="44" alt=""/>&nbsp;<sub><b>Arduino</b></sub>
+  &nbsp;&nbsp;&nbsp;&nbsp;
+  <img src="https://cdn.simpleicons.org/raspberrypi/c2185b" height="44" alt=""/>&nbsp;<sub><b>Raspberry Pi</b></sub>
+</p>
 
 <sub><b>⚡ Power Electronics · PCB Design · Hardware Bring-up</b></sub>
 <br/>
@@ -56,15 +59,17 @@ I craft my way to innovation.
 
 <br/>
 
-<table>
-  <tr>
-    <td align="center" width="78"><img src="https://cdn.simpleicons.org/ros/9b5de5" width="34" alt=""/><br/><sub>ROS 2 · ros2_control</sub></td>
-    <td align="center" width="78"><img src="https://cdn.simpleicons.org/python/9b5de5" width="34" alt=""/><br/><sub>Python</sub></td>
-    <td align="center" width="78"><img src="https://cdn.simpleicons.org/pytorch/9b5de5" width="34" alt=""/><br/><sub>PyTorch</sub></td>
-    <td align="center" width="78"><img src="https://cdn.simpleicons.org/n8n/9b5de5" width="34" alt=""/><br/><sub>n8n</sub></td>
-    <td align="center" width="78"><img src="https://cdn.simpleicons.org/milvus/9b5de5" width="34" alt=""/><br/><sub>Milvus</sub></td>
-  </tr>
-</table>
+<p align="center">
+  <img src="https://cdn.simpleicons.org/ros/9b5de5" height="34" alt=""/>&nbsp;<sub>ROS 2 · ros2_control</sub>
+  &nbsp;&nbsp;&nbsp;&nbsp;
+  <img src="https://cdn.simpleicons.org/python/9b5de5" height="34" alt=""/>&nbsp;<sub>Python</sub>
+  &nbsp;&nbsp;&nbsp;&nbsp;
+  <img src="https://cdn.simpleicons.org/pytorch/9b5de5" height="34" alt=""/>&nbsp;<sub>PyTorch</sub>
+  &nbsp;&nbsp;&nbsp;&nbsp;
+  <img src="https://cdn.simpleicons.org/n8n/9b5de5" height="34" alt=""/>&nbsp;<sub>n8n</sub>
+  &nbsp;&nbsp;&nbsp;&nbsp;
+  <img src="https://cdn.simpleicons.org/milvus/9b5de5" height="34" alt=""/>&nbsp;<sub>Milvus</sub>
+</p>
 
 <sub>🧠 CNNs · Agentic RAG · Embeddings</sub>
 <br/>
@@ -76,15 +81,17 @@ I craft my way to innovation.
 
 <br/>
 
-<table>
-  <tr>
-    <td align="center" width="58"><img src="https://cdn.simpleicons.org/huggingface/6a1b6d" width="24" alt=""/><br/><sub><sub>Hugging Face</sub></sub></td>
-    <td align="center" width="58"><img src="https://cdn.simpleicons.org/selenium/6a1b6d" width="24" alt=""/><br/><sub><sub>Selenium</sub></sub></td>
-    <td align="center" width="58"><img src="https://cdn.simpleicons.org/githubactions/6a1b6d" width="24" alt=""/><br/><sub><sub>CI/CD</sub></sub></td>
-    <td align="center" width="58"><img src="https://cdn.simpleicons.org/git/6a1b6d" width="24" alt=""/><br/><sub><sub>Git</sub></sub></td>
-    <td align="center" width="58"><img src="https://cdn.simpleicons.org/gitlab/6a1b6d" width="24" alt=""/><br/><sub><sub>GitLab</sub></sub></td>
-  </tr>
-</table>
+<p align="center">
+  <img src="https://cdn.simpleicons.org/huggingface/6a1b6d" height="24" alt=""/>&nbsp;<sub><sub>Hugging Face</sub></sub>
+  &nbsp;&nbsp;&nbsp;&nbsp;
+  <img src="https://cdn.simpleicons.org/selenium/6a1b6d" height="24" alt=""/>&nbsp;<sub><sub>Selenium</sub></sub>
+  &nbsp;&nbsp;&nbsp;&nbsp;
+  <img src="https://cdn.simpleicons.org/githubactions/6a1b6d" height="24" alt=""/>&nbsp;<sub><sub>CI/CD</sub></sub>
+  &nbsp;&nbsp;&nbsp;&nbsp;
+  <img src="https://cdn.simpleicons.org/git/6a1b6d" height="24" alt=""/>&nbsp;<sub><sub>Git</sub></sub>
+  &nbsp;&nbsp;&nbsp;&nbsp;
+  <img src="https://cdn.simpleicons.org/gitlab/6a1b6d" height="24" alt=""/>&nbsp;<sub><sub>GitLab</sub></sub>
+</p>
 
 <sub><sub>🔁 Excel VBA · Power BI · JIRA · Jupyter · Azure · Telemetry & benchmarking</sub></sub>
 
