@@ -3,9 +3,9 @@
 
 <svg xmlns='http://www.w3.org/2000/svg'
     xmlns:xlink='http://www.w3.org/1999/xlink'
-    viewBox='0 0 1600 78'
+    viewBox='0 0 920 300'
     style='background-color: #00000000;'
-    width='1600px' height='78px'>
+    width='920px' height='300px'>
 <defs>
   <filter id="letter-shadow" x="-10%" y="-40%" width="120%" height="180%">
     <feDropShadow dx="0" dy="1" stdDeviation="0.6" flood-color="#1a0c08" flood-opacity="0.35"/>
@@ -23,5 +23,9 @@
 }
 </style>
 
-                <text filter="url(#letter-shadow)" font-family="'Tangerine', cursive" font-size="26" fill="#F6EFE4" text-anchor="middle" dominant-baseline="middle" x="800" y="42">M.Sc. Electrical Engineering &amp; Information Technology · Hochschule Darmstadt</text>
+                <text filter="url(#letter-shadow)" font-family="'Tangerine', cursive" font-size="58" fill="#F6EFE4" text-anchor="middle">
+  <tspan x="460" y="78">M.Sc. Electrical Engineering</tspan>
+  <tspan x="460" y="158">&amp; Information Technology</tspan>
+  <tspan x="460" y="238">Hochschule Darmstadt</tspan>
+</text>
 </svg>

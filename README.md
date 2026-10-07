@@ -3,7 +3,7 @@
 </p>
 
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&pause=900&color=F6E7A8&center=true&vCenter=true&width=640&lines=Model+%E2%86%92+firmware+%E2%86%92+motion;Control+on+real+hardware" alt="Model to firmware to motion"/>
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&pause=900&color=5C3317&center=true&vCenter=true&width=640&lines=Model+%E2%86%92+firmware+%E2%86%92+motion;Control+on+real+hardware" alt="Model to firmware to motion"/>
 </p>
 
 <p align="center">
@@ -79,7 +79,7 @@
   <picture>
     <source media="(prefers-color-scheme: dark)" srcset="assets/degree-dark.svg"/>
     <source media="(prefers-color-scheme: light)" srcset="assets/degree-light.svg"/>
-    <img src="assets/degree-light.svg" width="90%" alt="M.Sc. Electrical Engineering and Information Technology, Hochschule Darmstadt"/>
+    <img src="assets/degree-light.svg" width="100%" alt="M.Sc. Electrical Engineering and Information Technology, Hochschule Darmstadt"/>
   </picture>
 </p>
 
