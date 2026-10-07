@@ -27,7 +27,7 @@ I craft my way to innovation.
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/matlab/matlab-original.svg" height="56" alt=""/>&nbsp;<b>MATLAB / Simulink</b>
 </p>
 
-<b>⚙️ PID · MPC · Kalman · State-Space &nbsp;✦&nbsp; 🔌 CAN · Modbus · RS-485 · UART · SPI · I²C</b>
+<b>⚙️ PID · MPC · Kalman · State-Space &nbsp;✦&nbsp; 🔌 CAN · Modbus · RS-485 · UART · SPI</b>
 <br/>
 <sub>GPIO · ADC · PWM · Timers · ISR · Ring buffers · Lead-lag · FIR / IIR · Sensor fusion</sub>
 
@@ -111,12 +111,14 @@ I craft my way to innovation.
 
 <br/><br/>
 
+<img src="https://img.shields.io/badge/Connect_on-555555?style=for-the-badge" alt="Connect on"/>
+&nbsp;
 <a href="https://www.linkedin.com/in/aishwarya-mohan-482412249/">
-  <img src="https://img.shields.io/badge/Connect_on-LinkedIn-d63384?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/>
+  <img src="https://img.shields.io/badge/LinkedIn-d63384?style=for-the-badge" alt="LinkedIn"/>
 </a>
 &nbsp;
 <a href="https://tech-believer.github.io/website/">
-  <img src="https://img.shields.io/badge/Connect_on-Portfolio-d63384?style=for-the-badge&logo=github&logoColor=white" alt="Portfolio"/>
+  <img src="https://img.shields.io/badge/Portfolio-d63384?style=for-the-badge&logo=github&logoColor=white" alt="Portfolio"/>
 </a>
 
 <img src="https://capsule-render.vercel.app/api?type=waving&color=0:bde0fe,50:e0bbf7,100:ffc8dd&height=90&section=footer&animation=twinkling" width="100%" alt=""/>
