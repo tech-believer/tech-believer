@@ -1,8 +1,10 @@
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:ffc8dd,50:e0bbf7,100:bde0fe&height=160&section=header&text=Aishwarya%20Mohan&fontSize=42&fontColor=6a1b6d&animation=twinkling&desc=Embedded%20Software%20%C2%B7%20Control%20Systems&descSize=17&descAlignY=72&descAlign=50" width="100%" alt="Aishwarya Mohan"/>
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0c1222,50:12343c,100:1de4c3&height=170&section=header&text=Aishwarya%20Mohan&fontSize=42&fontColor=f6efe4&animation=fadeIn&desc=Embedded%20Software%20%C2%B7%20Control%20Systems&descAlignY=70" width="100%" alt="Aishwarya Mohan"/>
 
-<br/><br/>
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&pause=900&color=0F766E&center=true&vCenter=true&width=640&lines=Model+%E2%86%92+firmware+%E2%86%92+motion;Control+on+real+hardware" alt="Model to firmware to motion"/>
+
+<br/>
 
 <i>
 In circuits and code, I find my way,<br/>
@@ -11,47 +13,22 @@ From equations to firmware; models to motion —<br/>
 I craft my way to innovation.
 </i>
 
-<br/><br/>
-
-✧ ✧
-
-<br/>
-
-<p align="center">
-  <img src="https://cdn.simpleicons.org/c/d63384" height="56" alt=""/>&nbsp;<b>C</b>
-  &nbsp;&nbsp;&nbsp;&nbsp;
-  <img src="https://cdn.simpleicons.org/cplusplus/d63384" height="56" alt=""/>&nbsp;<b>C++</b>
-  &nbsp;&nbsp;&nbsp;&nbsp;
-  <img src="https://cdn.simpleicons.org/stmicroelectronics/d63384" height="56" alt=""/>&nbsp;<b>STM32</b>
-  &nbsp;&nbsp;&nbsp;&nbsp;
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/matlab/matlab-original.svg" height="56" alt=""/>&nbsp;<b>MATLAB / Simulink</b>
-</p>
-
-<b>⚙️ PID · MPC · Kalman · State-Space &nbsp;✦&nbsp; 🔌 CAN · Modbus · RS-485 · UART · SPI · I²C</b>
-<br/>
-<sub>GPIO · ADC · PWM · Timers · ISR · Ring buffers · Lead-lag · FIR / IIR · Sensor fusion</sub>
-
 <br/>
 
 ✧ ✧
 
 <br/>
 
-<p align="center">
-  <img src="https://cdn.simpleicons.org/linux/c2185b" height="44" alt=""/>&nbsp;<sub><b>Linux · SocketCAN</b></sub>
-  &nbsp;&nbsp;&nbsp;&nbsp;
-  <img src="https://cdn.simpleicons.org/cmake/c2185b" height="44" alt=""/>&nbsp;<sub><b>CMake · colcon</b></sub>
-  &nbsp;&nbsp;&nbsp;&nbsp;
-  <img src="https://cdn.simpleicons.org/docker/c2185b" height="44" alt=""/>&nbsp;<sub><b>Docker</b></sub>
-  &nbsp;&nbsp;&nbsp;&nbsp;
-  <img src="https://cdn.simpleicons.org/arduino/c2185b" height="44" alt=""/>&nbsp;<sub><b>Arduino</b></sub>
-  &nbsp;&nbsp;&nbsp;&nbsp;
-  <img src="https://cdn.simpleicons.org/raspberrypi/c2185b" height="44" alt=""/>&nbsp;<sub><b>Raspberry Pi</b></sub>
-</p>
+<img src="https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=c&logoColor=white" alt="C"/>
+<img src="https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=cplusplus&logoColor=white" alt="C++"/>
+<img src="https://img.shields.io/badge/STM32-03234B?style=for-the-badge&logo=stmicroelectronics&logoColor=white" alt="STM32"/>
+<img src="https://img.shields.io/badge/MATLAB_%2F_Simulink-E85D04?style=for-the-badge" alt="MATLAB / Simulink"/>
 
-<sub><b>⚡ Power Electronics · PCB Design · Hardware Bring-up</b></sub>
 <br/>
-<sub><sub>Simscape · PLECS · LTspice · Ansys · Eagle · J-Link · Keil</sub></sub>
+
+**PID · MPC · Kalman · State-space** &nbsp;·&nbsp; **GPIO · ADC · PWM · Timers · ISR**
+
+<sub> CAN · Modbus · RS-485 · UART · SPI · Ring buffers · Lead-lag · FIR / IIR · Sensor fusion</sub>
 
 <br/>
 
@@ -59,21 +36,15 @@ I craft my way to innovation.
 
 <br/>
 
-<p align="center">
-  <img src="https://cdn.simpleicons.org/ros/9b5de5" height="34" alt=""/>&nbsp;<sub>ROS 2 · ros2_control</sub>
-  &nbsp;&nbsp;&nbsp;&nbsp;
-  <img src="https://cdn.simpleicons.org/python/9b5de5" height="34" alt=""/>&nbsp;<sub>Python</sub>
-  &nbsp;&nbsp;&nbsp;&nbsp;
-  <img src="https://cdn.simpleicons.org/pytorch/9b5de5" height="34" alt=""/>&nbsp;<sub>PyTorch</sub>
-  &nbsp;&nbsp;&nbsp;&nbsp;
-  <img src="https://cdn.simpleicons.org/n8n/9b5de5" height="34" alt=""/>&nbsp;<sub>n8n</sub>
-  &nbsp;&nbsp;&nbsp;&nbsp;
-  <img src="https://cdn.simpleicons.org/milvus/9b5de5" height="34" alt=""/>&nbsp;<sub>Milvus</sub>
-</p>
+<img src="https://img.shields.io/badge/Linux-FCC624?style=flat&logo=linux&logoColor=black" alt="Linux"/>
+<img src="https://img.shields.io/badge/Docker-2496ED?style=flat&logo=docker&logoColor=white" alt="Docker"/>
+<img src="https://img.shields.io/badge/CMake-064F8C?style=flat&logo=cmake&logoColor=white" alt="CMake"/>
+<img src="https://img.shields.io/badge/Arduino-00979D?style=flat&logo=arduino&logoColor=white" alt="Arduino"/>
+<img src="https://img.shields.io/badge/Raspberry_Pi-C51A4A?style=flat&logo=raspberrypi&logoColor=white" alt="Raspberry Pi"/>
 
-<sub>🧠 CNNs · Agentic RAG · Embeddings</sub>
 <br/>
-<sub><sub>URDF / xacro · pluginlib · rclcpp · Pinecone · kNN · Random Forest</sub></sub>
+
+<sub>Power electronics · PCB design · Hardware bring-up · PLECS · LTspice · Eagle · J-Link</sub>
 
 <br/>
 
@@ -81,19 +52,31 @@ I craft my way to innovation.
 
 <br/>
 
-<p align="center">
-  <img src="https://cdn.simpleicons.org/huggingface/6a1b6d" height="24" alt=""/>&nbsp;<sub><sub>Hugging Face</sub></sub>
-  &nbsp;&nbsp;&nbsp;&nbsp;
-  <img src="https://cdn.simpleicons.org/selenium/6a1b6d" height="24" alt=""/>&nbsp;<sub><sub>Selenium</sub></sub>
-  &nbsp;&nbsp;&nbsp;&nbsp;
-  <img src="https://cdn.simpleicons.org/githubactions/6a1b6d" height="24" alt=""/>&nbsp;<sub><sub>CI/CD</sub></sub>
-  &nbsp;&nbsp;&nbsp;&nbsp;
-  <img src="https://cdn.simpleicons.org/git/6a1b6d" height="24" alt=""/>&nbsp;<sub><sub>Git</sub></sub>
-  &nbsp;&nbsp;&nbsp;&nbsp;
-  <img src="https://cdn.simpleicons.org/gitlab/6a1b6d" height="24" alt=""/>&nbsp;<sub><sub>GitLab</sub></sub>
-</p>
+<img src="https://img.shields.io/badge/ROS_2-22314E?style=flat&logo=ros&logoColor=white" alt="ROS 2"/>
+<img src="https://img.shields.io/badge/Python-3776AB?style=flat&logo=python&logoColor=white" alt="Python"/>
+<img src="https://img.shields.io/badge/PyTorch-EE4C2C?style=flat&logo=pytorch&logoColor=white" alt="PyTorch"/>
+<img src="https://img.shields.io/badge/n8n-EA4B71?style=flat&logo=n8n&logoColor=white" alt="n8n"/>
+<img src="https://img.shields.io/badge/Milvus-00A1EA?style=flat&logo=milvus&logoColor=white" alt="Milvus"/>
 
-<sub><sub>🔁 Excel VBA · Power BI · JIRA · Jupyter · Azure · Telemetry & benchmarking</sub></sub>
+<br/>
+
+<sub>ros2_control · URDF · CNNs · Agentic RAG · Hugging Face · Pinecone · kNN</sub>
+
+<br/>
+
+✧ ✧
+
+<br/>
+
+<img src="https://img.shields.io/badge/Hugging_Face-FFD21E?style=flat-square&logo=huggingface&logoColor=black" alt="Hugging Face"/>
+<img src="https://img.shields.io/badge/Selenium-43B02A?style=flat-square&logo=selenium&logoColor=white" alt="Selenium"/>
+<img src="https://img.shields.io/badge/CI/CD-2088FF?style=flat-square&logo=githubactions&logoColor=white" alt="CI/CD"/>
+<img src="https://img.shields.io/badge/Git-F05032?style=flat-square&logo=git&logoColor=white" alt="Git"/>
+<img src="https://img.shields.io/badge/GitLab-FC6D26?style=flat-square&logo=gitlab&logoColor=white" alt="GitLab"/>
+
+<br/>
+
+<sub>Excel VBA · Power BI · JIRA · Jupyter · Azure · Benchmarking</sub>
 
 <br/>
 
@@ -101,14 +84,31 @@ I craft my way to innovation.
 
 <br/><br/>
 
-🎓 M.Sc. Electrical Engineering & Information Technology · Hochschule Darmstadt
+<img src="https://cdn.jsdelivr.net/gh/twitter/twemoji@14.0.2/assets/72x72/1f393.png" width="36" alt=""/>
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://readme-typing-svg.demolab.com?font=Great+Vibes&size=28&duration=1&pause=999999&color=F6EFE4&center=true&vCenter=true&width=1100&height=70&lines=M.Sc.+Electrical+Engineering+%26+Information+Technology+%C2%B7+Hochschule+Darmstadt"/>
+  <source media="(prefers-color-scheme: light)" srcset="https://readme-typing-svg.demolab.com?font=Great+Vibes&size=28&duration=1&pause=999999&color=3D2418&center=true&vCenter=true&width=1100&height=70&lines=M.Sc.+Electrical+Engineering+%26+Information+Technology+%C2%B7+Hochschule+Darmstadt"/>
+  <img src="https://readme-typing-svg.demolab.com?font=Great+Vibes&size=28&duration=1&pause=999999&color=F6EFE4&center=true&vCenter=true&width=1100&height=70&lines=M.Sc.+Electrical+Engineering+%26+Information+Technology+%C2%B7+Hochschule+Darmstadt" alt="M.Sc. Electrical Engineering and Information Technology, Hochschule Darmstadt"/>
+</picture>
+
+<br/><br/>
+
+<img src="https://img.shields.io/badge/🚗_Mobility-Führerschein_B197-E0A84A?style=for-the-badge&labelColor=11141d" alt="German Führerschein Klasse B (B197)"/>
+<br/>
+<sub>Manual &amp; automatic · EU-valid</sub>
 
 <br/><br/>
 
 <a href="https://www.linkedin.com/in/aishwarya-mohan-482412249/">
-  <img src="https://img.shields.io/badge/Connect_on-LinkedIn-d63384?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/>
+  <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/>
+</a>
+&nbsp;
+<a href="https://tech-believer.github.io/website/">
+  <img src="https://img.shields.io/badge/Portfolio-11141d?style=for-the-badge&logo=github&logoColor=1de4c3" alt="Portfolio"/>
 </a>
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:bde0fe,50:e0bbf7,100:ffc8dd&height=90&section=footer&animation=twinkling" width="100%" alt=""/>
+<br/>
+
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:1de4c3,50:12343c,100:0c1222&height=90&section=footer" width="100%" alt=""/>
 
 </div>
