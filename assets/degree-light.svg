@@ -1,16 +1,17 @@
 <!-- https://github.com/DenverCoder1/readme-typing-svg/ -->
-<defs>
-  <filter id="letter-shadow" x="-15%" y="-25%" width="140%" height="160%">
-    <feDropShadow dx="0" dy="2" stdDeviation="1.2" flood-color="#1a0c08" flood-opacity="0.55"/>
-    <feDropShadow dx="2" dy="3" stdDeviation="2.2" flood-color="#1a0c08" flood-opacity="0.45"/>
-  </filter>
-</defs>
+
 
 <svg xmlns='http://www.w3.org/2000/svg'
     xmlns:xlink='http://www.w3.org/1999/xlink'
-    viewBox='0 0 1100 90'
+    viewBox='0 0 1600 78'
     style='background-color: #00000000;'
-    width='1100px' height='90px'>
+    width='1600px' height='78px'>
+<defs>
+  <filter id="letter-shadow" x="-10%" y="-40%" width="120%" height="180%">
+    <feDropShadow dx="0" dy="1" stdDeviation="0.6" flood-color="#1a0c08" flood-opacity="0.35"/>
+  </filter>
+</defs>
+
 
     <style>
 @font-face {
@@ -22,18 +23,5 @@
 }
 </style>
 
-                <path id='path0' d='M0,45 H1100'>
-                            <!-- Single line -->
-                                <animate id='d0' attributeName='d' begin='0s;d0.end'
-                    dur='1000000ms' fill='remove'
-                    values='m0,45 h0 ; m0,45 h1100 ; m0,45 h1100 ; m0,45 h0' keyTimes='0;8.0E-7;0.9999998;1' />
-                    </path>
-    <text filter="url(#letter-shadow)" font-family='"Tangerine", monospace' fill='#3D2418' font-size='42'
-        dominant-baseline='middle'
-        x='50%' text-anchor='middle'
-        letter-spacing='normal'>
-        <textPath xlink:href='#path0' startOffset='50%' text-anchor='middle'>
-            M.Sc. Electrical Engineering &amp; Information Technology · Hochschule Darmstadt
-        </textPath>
-    </text>
+                <text filter="url(#letter-shadow)" font-family="'Tangerine', cursive" font-size="26" fill="#3D2418" text-anchor="middle" dominant-baseline="middle" x="800" y="42">M.Sc. Electrical Engineering &amp; Information Technology · Hochschule Darmstadt</text>
 </svg>

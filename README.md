@@ -3,7 +3,7 @@
 </p>
 
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&pause=900&color=0F766E&center=true&vCenter=true&width=640&lines=Model+%E2%86%92+firmware+%E2%86%92+motion;Control+on+real+hardware" alt="Model to firmware to motion"/>
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&pause=900&color=F6E7A8&center=true&vCenter=true&width=640&lines=Model+%E2%86%92+firmware+%E2%86%92+motion;Control+on+real+hardware" alt="Model to firmware to motion"/>
 </p>
 
 <p align="center">

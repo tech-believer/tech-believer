@@ -27,10 +27,19 @@
       .text, .desc { animation: fadeIn 1.2s ease-in-out forwards; }
       @keyframes fadeIn { from { opacity: 0; } to { opacity: 1; } }
     </style>
-    <defs><filter id="name-shadow" x="-10%" y="-30%" width="120%" height="160%"><feDropShadow dx="0" dy="3" stdDeviation="2.5" flood-color="#5a0010" flood-opacity="0.45"/></filter></defs>
+    <defs><filter id="name-shadow" x="-10%" y="-30%" width="120%" height="160%"><feDropShadow dx="0" dy="2" stdDeviation="1.5" flood-color="#3a2218" flood-opacity="0.55"/></filter></defs>
         <defs>
               <linearGradient id="linear" x1="0%" y1="0%" x2="100%" y2="0%">
                 <stop offset="0%" stop-color="#ff4d5e"/><stop offset="50%" stop-color="#f0233a"/><stop offset="100%" stop-color="#c8102e"/>
+              </linearGradient>
+              <linearGradient id="glitter" x1="-40%" y1="0%" x2="0%" y2="0%">
+                <stop offset="0%" stop-color="#f6e7a8"/>
+                <stop offset="45%" stop-color="#f6e7a8"/>
+                <stop offset="50%" stop-color="#fffdf4"/>
+                <stop offset="55%" stop-color="#e7cf86"/>
+                <stop offset="100%" stop-color="#f6e7a8"/>
+                <animate attributeName="x1" values="-40%;120%" dur="2.8s" repeatCount="indefinite"/>
+                <animate attributeName="x2" values="0%;160%" dur="2.8s" repeatCount="indefinite"/>
               </linearGradient>
             </defs>
         
@@ -60,7 +69,13 @@
           </animate>
         </path>
       </g>
-         <text text-anchor="middle" dominant-baseline="middle" x="427" y="58" class="text" style="fill:#ffffff;" stroke="#none" stroke-width="1"  filter="url(#name-shadow)">Aishwarya Mohan</text>
-        <text text-anchor="middle" dominant-baseline="middle" x="427" y="95" class="desc" style="fill:#ffffff;">EMBEDDED SOFTWARE · CONTROL SYSTEMS</text>
+         <text text-anchor="middle" dominant-baseline="middle" x="427" y="58" class="text" style="fill:url(#glitter); stroke:#5c3317; stroke-width:1.4px; paint-order:stroke fill; stroke-linejoin:round;" filter="url(#name-shadow)">Aishwarya Mohan</text>
+        <g fill="#fff8dc">
+          <circle cx="292" cy="42" r="1.4"><animate attributeName="opacity" values="0;1;0" dur="1.8s" repeatCount="indefinite"/></circle>
+          <circle cx="560" cy="46" r="1.2"><animate attributeName="opacity" values="0;1;0" dur="2.2s" begin="0.4s" repeatCount="indefinite"/></circle>
+          <circle cx="340" cy="74" r="1.1"><animate attributeName="opacity" values="0;1;0" dur="1.6s" begin="0.8s" repeatCount="indefinite"/></circle>
+          <circle cx="510" cy="72" r="1.5"><animate attributeName="opacity" values="0;1;0" dur="2s" begin="0.2s" repeatCount="indefinite"/></circle>
+        </g>
+        <text text-anchor="middle" dominant-baseline="middle" x="427" y="95" class="desc" style="fill:url(#glitter); stroke:#5c3317; stroke-width:0.6px; paint-order:stroke fill; stroke-linejoin:round;" filter="url(#name-shadow)">EMBEDDED SOFTWARE · CONTROL SYSTEMS</text>
       </svg>
     
