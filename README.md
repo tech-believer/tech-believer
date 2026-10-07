@@ -105,8 +105,18 @@ I craft my way to innovation.
 
 <br/><br/>
 
+<img src="https://img.shields.io/badge/Driving_License-Führerschein_B197-d63384?style=for-the-badge" alt="Driving license"/>
+<br/>
+<sub>Manual &amp; automatic · EU-valid</sub>
+
+<br/><br/>
+
 <a href="https://www.linkedin.com/in/aishwarya-mohan-482412249/">
   <img src="https://img.shields.io/badge/Connect_on-LinkedIn-d63384?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/>
+</a>
+&nbsp;
+<a href="https://tech-believer.github.io/website/">
+  <img src="https://img.shields.io/badge/Connect_on-Portfolio-d63384?style=for-the-badge&logo=github&logoColor=white" alt="Portfolio"/>
 </a>
 
 <img src="https://capsule-render.vercel.app/api?type=waving&color=0:bde0fe,50:e0bbf7,100:ffc8dd&height=90&section=footer&animation=twinkling" width="100%" alt=""/>
