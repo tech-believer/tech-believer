@@ -77,9 +77,9 @@
   <img src="https://cdn.jsdelivr.net/gh/twitter/twemoji@14.0.2/assets/72x72/1f393.png" width="36" alt=""/>
   <br/>
   <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="assets/degree-dark.svg"/>
-    <source media="(prefers-color-scheme: light)" srcset="assets/degree-light.svg"/>
-    <img src="assets/degree-light.svg" width="100%" alt="M.Sc. Electrical Engineering and Information Technology, Hochschule Darmstadt"/>
+    <source media="(prefers-color-scheme: dark)" srcset="assets/msc-dark.svg"/>
+    <source media="(prefers-color-scheme: light)" srcset="assets/msc-light.svg"/>
+    <img src="assets/msc-light.svg" width="100%" alt="M.Sc. Electrical Engineering and Information Technology, Hochschule Darmstadt"/>
   </picture>
 </p>
 
