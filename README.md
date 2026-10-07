@@ -100,5 +100,5 @@
 </p>
 
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:c8102e,50:f0233a,100:ff4d5e&height=90&section=footer" width="100%" alt=""/>
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:4a0a16,50:7a1228,100:9e1b32&height=90&section=footer" width="100%" alt=""/>
 </p>

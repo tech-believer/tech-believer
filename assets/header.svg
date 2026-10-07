@@ -30,7 +30,7 @@
     <defs><filter id="name-shadow" x="-10%" y="-30%" width="120%" height="160%"><feDropShadow dx="0" dy="2" stdDeviation="1.5" flood-color="#3a2218" flood-opacity="0.55"/></filter></defs>
         <defs>
               <linearGradient id="linear" x1="0%" y1="0%" x2="100%" y2="0%">
-                <stop offset="0%" stop-color="#ff4d5e"/><stop offset="50%" stop-color="#f0233a"/><stop offset="100%" stop-color="#c8102e"/>
+                <stop offset="0%" stop-color="#9e1b32"/><stop offset="50%" stop-color="#7a1228"/><stop offset="100%" stop-color="#4a0a16"/>
               </linearGradient>
               <linearGradient id="glitter" x1="-40%" y1="0%" x2="0%" y2="0%">
                 <stop offset="0%" stop-color="#f6e7a8"/>
@@ -44,7 +44,7 @@
             </defs>
         
       <g transform="translate(427, 85) scale(1, 1) translate(-427, -85)">
-        <path d="" fill="url(#linear)" opacity="0.4" >
+        <path d="" fill="url(#linear)" opacity="1" >
           <animate
               attributeName="d"
               dur="20s"
@@ -56,7 +56,7 @@
               values="M0 0L 0 90Q 213.5 130 427 100T 854 125L 854 0 Z;M0 0L 0 115Q 213.5 130 427 110T 854 100L 854 0 Z;M0 0L 0 135Q 213.5 105 427 135T 854 100L 854 0 Z;M0 0L 0 90Q 213.5 130 427 100T 854 125L 854 0 Z">
           </animate>
         </path>
-        <path d="" fill="url(#linear)" opacity="0.4" >
+        <path d="" fill="url(#linear)" opacity="1" >
           <animate
             attributeName="d"
             dur="20s"
